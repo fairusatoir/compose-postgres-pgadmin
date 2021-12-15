@@ -12,7 +12,7 @@
   <br>
 </p>
 
-# Postgres & PgAdmin in Docker
+# PostgreSQL & PgAdmin in Docker
 
 ### Simple Example script run [_Postgres_](https://hub.docker.com/_/postgres) and [_PgAdmin_](https://hub.docker.com/r/dpage/pgadmin4/tags) on Docker using _docker-compose_.
 
